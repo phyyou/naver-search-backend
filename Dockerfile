@@ -25,4 +25,4 @@ COPY ./app /app
 ENV PYTHONPATH=/app
 
 # Run migrations
-alembic upgrade head
+# RUN alembic upgrade head
